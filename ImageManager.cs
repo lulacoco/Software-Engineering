@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
- 
-namespace PGM
+
+namespace Convolution
 {
+
     class ImageManager
     {
         public static void saveImage(string path, MyImage image)
